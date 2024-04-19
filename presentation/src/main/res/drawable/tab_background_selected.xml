@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape
+            android:shape="rectangle">
+
+            <corners
+                android:radius="50dp"/>
+
+            <!-- color of the selected tab -->
+            <solid
+                android:color="@color/colorPrimary"
+                android:tint="@color/colorPrimary"/>
+
+        </shape>
+    </item>
+    <item android:height="9dp"
+        android:width="9dp"
+        android:left="16dp"
+        android:gravity="center_vertical"
+        >
+        <shape android:shape="oval">
+            <solid
+                android:color="@color/white"
+                android:tint="@color/white"/>
+
+        </shape>
+    </item>
+</layer-list>

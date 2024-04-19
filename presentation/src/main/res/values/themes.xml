@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Movies" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/primary_3</item>
+        <item name="colorSecondaryVariant">@color/primary_3</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <!-- Customize your theme here. -->
+        <!-- Snackbar style. -->
+        <item name="snackbarStyle">@style/Widget.SnackBar</item>
+    </style>
+
+    <style name="Theme.LogManagement" parent="Base.Theme.Movies" />
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////
+
+    <style name="TabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">18sp</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="fontFamily">@font/poppins_bold</item>
+    </style>
+    ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    <style name="Widget.SnackBar" parent="Widget.MaterialComponents.Snackbar">
+        <item name="android:layout_margin">0dp</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+    </style>
+
+
+
+
+</resources>

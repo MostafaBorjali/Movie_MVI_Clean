@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="internet_connection_error">No Internet Connected!</string>
+    <string name="file_provider_package">com.borjali.android.provider</string>
+    <string name="retry">Retry</string>
+    <string name="internet_description">Please Check Your Internet Connection</string>
+    <string name="no_internet_title">No Internet Connection!</string>
+
+    <string name="time_pattern">yyyy-MM-dd\'T\'HH:mm:ss.SSSZ</string>
+    <string name="search_title_hint">Search Title</string>
+    <string name="there_is_no_any_data">There is no data</string>
+    <string name="version">version 1.0.0</string>
+
+    <!--////////Array////////////////////////////////////////////////////////////////////////////-->
+    <string-array name="title">
+        <item>   Movies   </item>
+        <item>  Information  </item>
+    </string-array>
+
+    <!--////////Array////////////////////////////////////////////////////////////////////////////-->
+</resources>
