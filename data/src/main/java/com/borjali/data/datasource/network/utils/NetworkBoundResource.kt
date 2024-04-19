@@ -19,6 +19,17 @@ import org.json.JSONObject
 import retrofit2.HttpException
 import java.io.IOException
 
+/**
+ * An abstract class that implements a pattern for fetching data from network and managing local cache.
+ *
+ * This class defines a template for handling network requests, updating cache, and emitting data states
+ * for UI updates. It uses Flow for asynchronous operations and data state emission.
+ *
+ * @param <NetworkObj> The type of object retrieved from the network API.
+ * @param <CacheObj> The type of object stored in the local cache.
+ * @param <ViewState> The type of data used by the UI (e.g., view model state).
+ *
+ */
 abstract class NetworkBoundResource<NetworkObj, CacheObj, ViewState>(
     private val apiCall: (suspend () -> ServerResponse<NetworkObj?>)? = null,
 

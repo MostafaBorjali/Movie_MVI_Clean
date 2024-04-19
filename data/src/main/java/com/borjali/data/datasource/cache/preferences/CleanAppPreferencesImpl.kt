@@ -10,7 +10,11 @@ import com.borjali.data.DataConstants.PREF_NAME
 import com.borjali.domain.preference.CleanAppPreferences
 
 /**
- * Implementation class of [CleanAppPreferences]
+ * An implementation of the `CleanAppPreferences` interface that provides secure or non-secure
+ * shared preferences for storing application data.
+ *
+ * This class uses `SharedPreferences` to store key-value pairs of data. It allows choosing
+ * between secure and non-secure storage options
  */
 @SuppressLint("CommitPrefEdits")
 open class CleanAppPreferencesImpl(
