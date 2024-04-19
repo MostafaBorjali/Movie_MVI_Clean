@@ -1,0 +1,394 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 693134,
+      "original_language": "en",
+      "original_title": "Dune: Part Two",
+      "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+      "popularity": 2680.44,
+      "poster_path": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+      "release_date": "2024-02-27",
+      "title": "Dune: Part Two",
+      "video": false,
+      "vote_average": 8.293,
+      "vote_count": 3018
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1XDDXPXGiI8id7MrUxK36ke7gkX.jpg",
+      "genre_ids": [
+        16,
+        28,
+        10751,
+        35,
+        14
+      ],
+      "id": 1011985,
+      "original_language": "en",
+      "original_title": "Kung Fu Panda 4",
+      "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+      "popularity": 2015.484,
+      "poster_path": "/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+      "release_date": "2024-03-02",
+      "title": "Kung Fu Panda 4",
+      "video": false,
+      "vote_average": 7.149,
+      "vote_count": 1113
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pwGmXVKUgKN13psUjlhC9zBcq1o.jpg",
+      "genre_ids": [
+        28,
+        14
+      ],
+      "id": 634492,
+      "original_language": "en",
+      "original_title": "Madame Web",
+      "overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+      "popularity": 717.833,
+      "poster_path": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+      "release_date": "2024-02-14",
+      "title": "Madame Web",
+      "video": false,
+      "vote_average": 5.647,
+      "vote_count": 1090
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xThuEoirx0vXismkVbnMQqkMkHK.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 849509,
+      "original_language": "en",
+      "original_title": "Jade",
+      "overview": "Jade presents the story of a woman who comes between a powerful businessman and a gang leader in their search for a hard drive that could damage the operations of Interpol. Despite grieving for the brother she accidentally killed, the woman is required to use her unique set of skills to retrieve the drive and protect her brother's unborn child being carried by another woman.",
+      "popularity": 501.569,
+      "poster_path": "/pqotEkHRbhUPUuX9Gq4U6aJzK55.jpg",
+      "release_date": "2024-02-16",
+      "title": "Jade",
+      "video": false,
+      "vote_average": 5.789,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/h1An6CRfuzwlUAKtnmGpKuHCW37.jpg",
+      "genre_ids": [
+        53,
+        27
+      ],
+      "id": 1032372,
+      "original_language": "en",
+      "original_title": "Cold Meat",
+      "overview": "David Petersen is passing through the Colorado Rockies. After saving a young diner waitress from her violent ex-husband during a break from driving, he hits the road again alone through a dangerous snow blizzard. One false move behind the wheel has him waking up inside a ravine, in the eye of the storm. But the cold is the least of his worries when a beast starts prowling outside. How will he survive?",
+      "popularity": 301.377,
+      "poster_path": "/7XIIFcDxSk6XqG9Rek6h9q6KU58.jpg",
+      "release_date": "2024-02-23",
+      "title": "Cold Meat",
+      "video": false,
+      "vote_average": 4.944,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg",
+      "genre_ids": [
+        878,
+        28,
+        80
+      ],
+      "id": 932420,
+      "original_language": "en",
+      "original_title": "Code 8 Part II",
+      "overview": "In a world where superpowered people are heavily policed by robots, an ex-con teams up with a drug lord he despises to protect a teen from a corrupt cop.",
+      "popularity": 251.872,
+      "poster_path": "/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg",
+      "release_date": "2024-02-27",
+      "title": "Code 8 Part II",
+      "video": false,
+      "vote_average": 6.476,
+      "vote_count": 420
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aINel9503ompOlGKn4sIVMg09Un.jpg",
+      "genre_ids": [
+        9648,
+        27,
+        53
+      ],
+      "id": 838209,
+      "original_language": "ko",
+      "original_title": "파묘",
+      "overview": "After tracing the origin of a disturbing supernatural affliction to a wealthy family's ancestral gravesite, a team of paranormal experts relocates the remains—and soon discovers what happens to those who dare to mess with the wrong grave.",
+      "popularity": 172.733,
+      "poster_path": "/pQYHouPsDw32FhDLr7E3jmw0WTk.jpg",
+      "release_date": "2024-02-22",
+      "title": "Exhuma",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 39
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u0P5drNyTrZoGyJONPcZGbv1mNP.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1124127,
+      "original_language": "en",
+      "original_title": "Air Force One Down",
+      "overview": "On her first assignment aboard Air Force One, a rookie Secret Service agent faces the ultimate test when terrorists hijack the plane, intent on derailing a pivotal energy deal. With the President's life on the line and a global crisis at stake, her bravery and skills are pushed to the limit in a relentless battle that could change the course of history.",
+      "popularity": 162.548,
+      "poster_path": "/nKPoSD4pZ3s3CJ9g3cqWRcQ41TC.jpg",
+      "release_date": "2024-02-09",
+      "title": "Air Force One Down",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 68
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1ZSKH5GGFlM8M32K34GMdaNS2Ew.jpg",
+      "genre_ids": [
+        10402,
+        36,
+        18
+      ],
+      "id": 802219,
+      "original_language": "en",
+      "original_title": "Bob Marley: One Love",
+      "overview": "Jamaican singer-songwriter Bob Marley overcomes adversity to become the most famous reggae musician in the world.",
+      "popularity": 137.097,
+      "poster_path": "/mKWalirPreEdCKDJjc5TKeOP2xi.jpg",
+      "release_date": "2024-02-14",
+      "title": "Bob Marley: One Love",
+      "video": false,
+      "vote_average": 7.008,
+      "vote_count": 487
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xi2pblvQtCnh26SeOYzx1YX3DLT.jpg",
+      "genre_ids": [
+        80,
+        28,
+        53
+      ],
+      "id": 1227816,
+      "original_language": "en",
+      "original_title": "Red Right Hand",
+      "overview": "Cash is trying to live a quiet, honest life in a small Appalachian town. When a vicious crime boss forces him back into her services, he soon learns he's capable of anything -- even killing -- to protect his family and his home.",
+      "popularity": 136.933,
+      "poster_path": "/vfEG79SQIg3p6B8rBLVeIo2BBhb.jpg",
+      "release_date": "2024-02-22",
+      "title": "Red Right Hand",
+      "video": false,
+      "vote_average": 7.287,
+      "vote_count": 82
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9xvBGz7wYjK5faoeXDIaBB9EYDx.jpg",
+      "genre_ids": [
+        10749,
+        18,
+        35
+      ],
+      "id": 1139566,
+      "original_language": "es",
+      "original_title": "A través de mi ventana 3: A través de tu mirada",
+      "overview": "After the events of the summer, Ares and Raquel they don't see a way forward in their relationship and decide to go separate ways. But when they meet again in the winter in Barcelona, the love and desire they feel for each other is undeniable. Will they be able to find a way to get back together?",
+      "popularity": 124.151,
+      "poster_path": "/gwpTgtwVAwmvivBN8rAQABpx9Am.jpg",
+      "release_date": "2024-02-23",
+      "title": "Through My Window 3: Looking at You",
+      "video": false,
+      "vote_average": 6.931,
+      "vote_count": 372
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zVMdsmRUH2U1bZSYr8GLZkfs3mi.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "id": 957304,
+      "original_language": "en",
+      "original_title": "Drive-Away Dolls",
+      "overview": "Jamie, an uninhibited free spirit bemoaning yet another breakup with a girlfriend, and her demure friend Marian desperately needs to loosen up. In search of a fresh start, the two embark on an impromptu road trip to Tallahassee, but things quickly go awry when they cross paths with a group of inept criminals along the way.",
+      "popularity": 112.892,
+      "poster_path": "/gavGnAMTXPkpoFgG0stwgIgKb64.jpg",
+      "release_date": "2024-02-22",
+      "title": "Drive-Away Dolls",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 155
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 931642,
+      "original_language": "en",
+      "original_title": "Lights Out",
+      "overview": "A drifting ex-soldier turns underground fighter with the help of a just-released ex-con, pitting him against corrupt cops and hired killers now gunning for him and all those he cares about.",
+      "popularity": 112.42,
+      "poster_path": "/gCOSDDyN0qA8rGoVwsZc72v3RuZ.jpg",
+      "release_date": "2024-02-16",
+      "title": "Lights Out",
+      "video": false,
+      "vote_average": 7.154,
+      "vote_count": 81
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mmpnUZebJhFXewEUuP7OGM4GuNF.jpg",
+      "genre_ids": [
+        878,
+        12,
+        18
+      ],
+      "id": 636706,
+      "original_language": "en",
+      "original_title": "Spaceman",
+      "overview": "During a research mission, an astronaut discovers that his marriage is in trouble. Luckily, he has the help of a mysterious creature hidden in his ship.",
+      "popularity": 84.917,
+      "poster_path": "/5hnFFOWEchErNVr0wMLWFEob3q1.jpg",
+      "release_date": "2024-02-23",
+      "title": "Spaceman",
+      "video": false,
+      "vote_average": 6.844,
+      "vote_count": 538
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pRmF6VBsRnvWCbLB9P80UvZFMyK.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "id": 1014590,
+      "original_language": "en",
+      "original_title": "Upgraded",
+      "overview": "Ana is an ambitious intern dreaming of a career in the art world while trying to impress her demanding boss Claire. When she's upgraded to first class on a work trip, she meets handsome Will, who mistakes Ana for her boss– a white lie that sets off a glamorous chain of events, romance and opportunity, until her fib threatens to surface.",
+      "popularity": 87.319,
+      "poster_path": "/4fKjh7zJrlAcZfIfNQCDvvrT5vN.jpg",
+      "release_date": "2024-02-07",
+      "title": "Upgraded",
+      "video": false,
+      "vote_average": 7.331,
+      "vote_count": 600
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/shS6buEDnEDoHTdLbGzCoDIZ9ur.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 840889,
+      "original_language": "en",
+      "original_title": "Stopmotion",
+      "overview": "Ella Blake, a stop-motion animator struggling to control her demons after the loss of her overbearing mother, embarks upon the creation of a film that becomes the battleground for her sanity. As Ella’s mind starts to fracture, the characters in her project take on a life of their own.",
+      "popularity": 84.244,
+      "poster_path": "/kWzWZEctPcZ0dATbtcYy6lIJgGj.jpg",
+      "release_date": "2024-02-22",
+      "title": "Stopmotion",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 51
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wfdHCilp8cNPK7tK4jLgdUT7703.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 1022690,
+      "original_language": "en",
+      "original_title": "Ricky Stanicky",
+      "overview": "When three childhood best friends pull a prank gone wrong, they invent the imaginary Ricky Stanicky to get them out of trouble. Twenty years later, the trio still uses the nonexistent Ricky as a handy alibi for their immature behavior. But when their spouses and partners get suspicious and demand to finally meet the fabled Mr. Stanicky, the guilty trio decide to hire a washed-up actor and raunchy celebrity impersonator to bring him to life.",
+      "popularity": 93.542,
+      "poster_path": "/cEuX73Q1wpMypB1cr4l3MoMGpL4.jpg",
+      "release_date": "2024-02-21",
+      "title": "Ricky Stanicky",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 352
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rBo0yYQTruIYEuXdyCAyVVlNb2H.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 974036,
+      "original_language": "en",
+      "original_title": "Ordinary Angels",
+      "overview": "In Louisville, Kentucky, hairdresser Sharon Stevens rallies the masses to help widowed father Ed Schmitt save his critically ill 5 year old daughter Michelle after their community is hit by a major snowstorm from the 1994 North American cold wave.",
+      "popularity": 68.252,
+      "poster_path": "/wdi9kEU4W2UeBTtdqOPZISGMtDR.jpg",
+      "release_date": "2024-02-22",
+      "title": "Ordinary Angels",
+      "video": false,
+      "vote_average": 7.511,
+      "vote_count": 45
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878,
+        18,
+        53
+      ],
+      "id": 1257801,
+      "original_language": "en",
+      "original_title": "The Night The World Ends",
+      "overview": "Four couples stranded at a remote lakeside cabin on the eve of a reported alien invasion discover not everything is as it seems.",
+      "popularity": 86.779,
+      "poster_path": "/dFCLyIw0tCBA3X3BYlzL2FBuOE0.jpg",
+      "release_date": "2024-03-01",
+      "title": "The Night The World Ends",
+      "video": false,
+      "vote_average": 2.7,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rUONctvx2KhEKSPz1ybzkwu0rP.jpg",
+      "genre_ids": [
+        12,
+        35
+      ],
+      "id": 977331,
+      "original_language": "fr",
+      "original_title": "Chien et Chat",
+      "overview": "While about to take off, Monica, the owner of a famous influencer cat named Diva, and Jack, an international thief whose dog Chichi swallowed a stolen ruby, dis- cover that their pets have gotten lost on the tarmac. The owners – and their pets – must team up to find their loved ones. But they don’t know that Brandt, a cop hot on their heels, will do anything to get his hands on the ruby!",
+      "popularity": 58.136,
+      "poster_path": "/3SYqAvxQIddxY5Bd6sWV9Q9kMTw.jpg",
+      "release_date": "2024-02-14",
+      "title": "Cat and Dog",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 40
+    }
+  ],
+  "total_pages": 122,
+  "total_results": 2440
+}

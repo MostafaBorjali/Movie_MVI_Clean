@@ -6,8 +6,8 @@ Define common dependencies, so they can be easily updated across feature modules
  */
 fun DependencyHandler.addTestDependencies() {
     testImplementation(TestLibraryDependency.JUNIT)
-  //  testImplementation(TestLibraryDependency.MOCKITO)
-   // testImplementation(TestLibraryDependency.ROBOLECTRIC)
+    testImplementation(TestLibraryDependency.MOCKITO)
+    testImplementation(TestLibraryDependency.RUNNER_ANDROID)
     testImplementation(TestLibraryDependency.COROUTINES)
     testImplementation(TestLibraryDependency.ARCH)
     testImplementation(TestLibraryDependency.MOCK_WEB_SERVER)
