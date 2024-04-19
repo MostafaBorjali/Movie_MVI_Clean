@@ -9,6 +9,14 @@ import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 
+/**
+ * This module uses `@Provides` to provide an instance of the `GetListOfMoviesUseCase`.
+ *
+ * @Provides:
+ *   - `GetListOfMoviesUseCase`: Injected with the `movieRepository` dependency.
+ *     - Creates an instance of `GetListOfMoviesUseCase` using the provided `movieRepository`.
+ *
+ */
 @ExperimentalCoroutinesApi
 @Module
 @InstallIn(SingletonComponent::class)

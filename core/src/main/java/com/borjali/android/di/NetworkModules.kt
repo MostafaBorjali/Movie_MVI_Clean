@@ -28,7 +28,12 @@ class NetworkModules {
     ////////////////////////////////////////////////////////////////////////////////////////////////
     ////////  RETROFIT With Token  MODULE //////////////////////////////////////////////////////////
     ////////////////////////////////////////////////////////////////////////////////////////////////
-
+    /**
+     * Provides a configured OkHttpClient instance for making network requests.
+     *
+     * @param tokenInterceptor Interceptor for handling access tokens (implementation not shown).
+     * @return A configured OkHttpClient instance.
+     */
     @Singleton
     @Provides
     fun provideCleanAppClient(tokenInterceptor: TokenInterceptor): OkHttpClient {
@@ -49,6 +54,12 @@ class NetworkModules {
         }.build()
     }
 
+    /**
+     * Provides a Retrofit service interface for interacting with the CleanApp API.
+     *
+     * @param tokenInterceptor Interceptor for handling access tokens (implementation not shown).
+     * @return An instance of the CleanAppApi interface.
+     */
     @Singleton
     @Provides
     fun provideCleanAppRetrofitService(tokenInterceptor: TokenInterceptor):
